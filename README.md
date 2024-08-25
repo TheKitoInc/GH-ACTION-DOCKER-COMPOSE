@@ -1,4 +1,4 @@
-# GH-ACTION-INSTALL-DOCKER-COMPOSE
+# GH-ACTION-DOCKER-COMPOSE-INSTALL
 
 Install latest docker-compose
 
