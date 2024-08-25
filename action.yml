@@ -13,5 +13,5 @@ runs:
     - name: GH-ACTION-INSTALL-DOCKER-COMPOSE
       shell: sh
       run: |
-        curl "https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64" > usr/local/bin/docker-compose && \
+        curl "https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64" > /usr/local/bin/docker-compose
         chmod +x docker-compose-linux-x86_64
