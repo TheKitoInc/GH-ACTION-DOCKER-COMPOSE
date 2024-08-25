@@ -4,7 +4,7 @@ branding:
   icon: trash-2
   color: red
 
-description: GH-ACTION-INSTALL-DOCKER-COMPOSE
+description: Install latest docker-compose
 
 
 runs:
