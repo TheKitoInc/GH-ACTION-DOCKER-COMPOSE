@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Upgrade docker-compose
-        uses: TheKitoInc/GH-ACTION-INSTALL-DOCKER-COMPOSE
+        uses: TheKitoInc/gh-action-install-docker-compose@main
