@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Install latest docker-compose
-        uses: TheKitoInc/gh-action-install-docker-compose@main
+        uses: TheKitoInc/gh-action-docker-compose-install@main
 
       - name: Check docker-compose version
         run: docker-compose --version
